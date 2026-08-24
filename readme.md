@@ -263,3 +263,7 @@ tensorboard --logdir Logs
 # License
 
 Released under the MIT License.
+
+## 👤 Author
+
+**Ziad Abdelhaliem Teama**
